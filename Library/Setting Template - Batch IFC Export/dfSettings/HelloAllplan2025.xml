@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NemetschekBIMStructureSelection Activated="1">
+  <Files>
+  </Files>
+<SelectedNodes>
+    <Teilbild Name="Walls Ground floor" NodeID="0201" />
+    <Teilbild Name="Ceiling above ground floor" NodeID="0202" />
+</SelectedNodes>
+<IndeterminatelySelectedNodes>
+</IndeterminatelySelectedNodes>
+<ExpandedNodes>
+    <Site Name="Site" NodeID="f727f9fb-cb5a-4921-8597-e1e967333eeb" />
+    <Building Name="House A" NodeID="2a5afe06-c57d-4f41-8ade-8b3c1588c5c8" />
+    <Storey Name="Surroundings" NodeID="2f630ce8-1588-45bc-9dc8-579dcad86112" />
+    <Storey Name="Foundation" NodeID="8ab71de2-4b2a-4c9d-9b88-b4529928f739" />
+    <Storey Name="Ground floor" NodeID="31f41f63-acbf-4c57-a3ca-ee2598568828" />
+    <Storey Name="Upper floor" NodeID="b546c454-c943-43a8-890f-6b9dd19b347b" />
+</ExpandedNodes>
+</NemetschekBIMStructureSelection>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NemetschekBIMStructureSettings Activated="1">
+  <Files>
+    <File ID="0001" State="0" Activated="0" />
+    <File ID="0002" State="0" Activated="0" />
+    <File ID="0003" State="0" Activated="0" />
+    <File ID="0004" State="0" Activated="0" />
+    <File ID="1000" State="2" Activated="1" />
+    <File ID="1001" State="0" Activated="1" />
+    <File ID="1002" State="0" Activated="1" />
+    <File ID="1003" State="0" Activated="1" />
+    <File ID="1004" State="0" Activated="1" />
+    <File ID="1010" State="2" Activated="1" />
+    <File ID="1011" State="2" Activated="1" />
+    <File ID="1012" State="2" Activated="1" />
+    <File ID="1013" State="2" Activated="1" />
+    <File ID="1014" State="2" Activated="1" />
+    <File ID="1015" State="2" Activated="1" />
+    <File ID="1016" State="0" Activated="1" />
+    <File ID="1017" State="0" Activated="1" />
+    <File ID="1018" State="0" Activated="1" />
+    <File ID="1019" State="0" Activated="1" />
+    <File ID="1020" State="2" Activated="1" />
+    <File ID="1021" State="2" Activated="1" />
+    <File ID="1022" State="0" Activated="1" />
+    <File ID="1023" State="0" Activated="1" />
+    <File ID="1024" State="0" Activated="1" />
+    <File ID="1030" State="3" Activated="1" />
+    <File ID="1031" State="2" Activated="1" />
+    <File ID="1032" State="2" Activated="1" />
+    <File ID="1033" State="0" Activated="1" />
+    <File ID="1034" State="0" Activated="1" />
+    <File ID="1040" State="2" Activated="1" />
+    <File ID="1041" State="2" Activated="1" />
+    <File ID="1042" State="2" Activated="1" />
+    <File ID="1043" State="0" Activated="1" />
+    <File ID="1044" State="0" Activated="1" />
+    <File ID="1050" State="2" Activated="1" />
+    <File ID="1051" State="0" Activated="1" />
+    <File ID="1052" State="0" Activated="1" />
+    <File ID="1053" State="0" Activated="1" />
+    <File ID="1054" State="0" Activated="1" />
+    <File ID="2011" State="2" Activated="0" />
+    <File ID="2012" State="2" Activated="0" />
+    <File ID="2013" State="0" Activated="0" />
+    <File ID="2014" State="0" Activated="0" />
+    <File ID="2015" State="0" Activated="0" />
+    <File ID="2021" State="2" Activated="0" />
+    <File ID="2022" State="3" Activated="0" />
+    <File ID="2023" State="0" Activated="0" />
+    <File ID="2024" State="0" Activated="0" />
+    <File ID="2025" State="0" Activated="0" />
+    <File ID="2031" State="3" Activated="0" />
+    <File ID="2032" State="2" Activated="0" />
+    <File ID="2033" State="0" Activated="0" />
+    <File ID="2034" State="0" Activated="0" />
+    <File ID="2035" State="0" Activated="0" />
+    <File ID="2041" State="3" Activated="0" />
+    <File ID="2042" State="0" Activated="0" />
+    <File ID="2043" State="0" Activated="0" />
+    <File ID="2044" State="0" Activated="0" />
+    <File ID="2045" State="0" Activated="0" />
+  </Files>
+<SelectedNodes>
+    <Building Name="VILLA WITH GARAGE" NodeID="8d905e48-6686-415d-9e3e-e678b7d03ecf" />
+    <Storey Name="Surroundings" NodeID="27ed8f3c-5eda-4e35-8040-9becad6addfd" />
+    <Storey Name="Garage" NodeID="c0aec2b9-b7f5-4391-91eb-4a10f296b29f" />
+    <Storey Name="Foundation" NodeID="182e96d9-6c13-4861-9695-a8f9d537559f" />
+    <Storey Name="Ground floor" NodeID="ceb96440-8452-408f-b7c2-50e2a54bb1a2" />
+    <Storey Name="1. Upper floor" NodeID="ccc5a51e-3af2-4b9f-8fd8-6e766c54c5e1" />
+    <Storey Name="2. Upper floor " NodeID="917c9f67-f459-4b8c-a598-5449c3c355ab" />
+</SelectedNodes>
+<IndeterminatelySelectedNodes>
+</IndeterminatelySelectedNodes>
+<ExpandedNodes>
+    <Storey Name="GENERAL" NodeID="2d37bdb0-907a-4296-8159-974b5d089764" />
+    <Building Name="VILLA WITH GARAGE" NodeID="8d905e48-6686-415d-9e3e-e678b7d03ecf" />
+    <Storey Name="Foundation" NodeID="182e96d9-6c13-4861-9695-a8f9d537559f" />
+    <Storey Name="Ground floor" NodeID="ceb96440-8452-408f-b7c2-50e2a54bb1a2" />
+    <Storey Name="1. Upper floor" NodeID="ccc5a51e-3af2-4b9f-8fd8-6e766c54c5e1" />
+    <Storey Name="2. Upper floor " NodeID="917c9f67-f459-4b8c-a598-5449c3c355ab" />
+</ExpandedNodes>
+</NemetschekBIMStructureSettings>

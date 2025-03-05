@@ -1,0 +1,3 @@
+hostName,projectName,dfSelection,layerSetting,version,dwgSetting,cfgSetting,destinationFolder,filename
+localhost,Hello Allplan! 2025,from drawing file selection window.xml,All.lfa,2013,06.nth,test-cfg-1.cfg,C:\_EXPORT\DWGs\,HelloAllplan2025-1.dwg
+localhost,Hello Allplan! 2025,from IFC export window.xml,AR_ALL.lfa,2018,07.nth,test-cfg-2.cfg,C:\_EXPORT\DWGs\,HelloAllplan2025-2.dxf

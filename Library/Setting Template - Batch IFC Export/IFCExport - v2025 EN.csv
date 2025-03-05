@@ -1,0 +1,3 @@
+hostName,projectName,dfSelection,layerSetting,ifc_Version,ifcSetting,destinationFolder,ifcFilename
+localhost,Hello Allplan! 2025,HelloAllplan2025.xml,All.lfa,ifc_4,All.nth,C:\_EXPORT\IFCs\,HelloAllplan2025-1.ifc
+localhost,Hello Allplan! 2025,HelloAllplan2025.xml,AR_ALL.lfa,ifc_4,Walls.nth,C:\_EXPORT\IFCs\,HelloAllplan2025-2.ifc

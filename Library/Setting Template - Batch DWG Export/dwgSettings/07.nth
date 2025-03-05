@@ -1,0 +1,188 @@
+@NemetschekThemeFile
+
+@Name"07 export - drawing files to model with layers"
+
+@Info"NOTE: only possible in drawing file edit mode
+
+EXPORT: Allplan drawing files -> DWG model space
+
+IMPORT: not suitable
+
+RESULT: Allplan's drawing files are transferred to a DWG file in AutoCAD's model space. Allplan's layer structure is transferred.
+
+ 
+
+You can use this favorite for exchange to transfer Allplan's layer structure as layers to AutoCAD.
+
+The layers' format properties (From layer) can also be transferred to AutoCAD ."
+
+
+
+"UseDefaultCfg"=int:1
+
+"EasyMappingMode"=int:1
+
+"All Resources To One"=int:0
+
+"Append Mode"=int:0
+
+"Save Cfg Actual"=int:0
+
+"Show Logfile"=int:0
+
+"Show Runtime Dialog"=int:1
+
+"Logfile Path"=string:""
+
+"User Defined Logfile Path"=int:1
+
+"Check area orientation"=int:0
+
+"Paths Equal"=int:0
+
+"Show options"=int:1
+
+"Special Xref Settings"=int:0
+
+"ODXConverter Destination Directory"=string:""
+
+"Adjust Macro Size"=int:0
+
+"AOUnit"=float:1000.000000
+
+"AOPlanscale"=float:100.000000
+
+"AOScaleFactor"=float:1.000000
+
+"AOOffsetX"=float:0.000000
+
+"AOOffsetY"=float:0.000000
+
+"AOOffsetZ"=float:0.000000
+
+"AOConfigfile"=string:"C:\Users\xxu\Desktop\AVS\dwg export\Setting\cfgSettings\test-cfg-1.cfg"
+
+"AOOptimization"=int:0
+
+"AOTransfer"=int:0
+
+"AOTransferElements"=int:2097023
+
+"AOSplittedElements"=int:1088
+
+"AODimension"=string:"2D"
+
+"AOSplitConnection"=int:0
+
+"AOSplitHierarchy"=int:0
+
+"AOSplitBlockHierarchy"=int:1
+
+"AOSplitPlan"=int:0
+
+"AOSplitReference"=int:0
+
+"AOAdaptCentre"=int:0
+
+"AOXRefPlanScale"=float:100.000000
+
+"AOThemeToRegistry"=int:0
+
+"SOACadPaperspace"=int:-1
+
+"SOACadPrototypeFile"=string:""
+
+"SOACadAttributeAnalyze"=int:0
+
+"SOACadDisintegrateArcAlignedText"=int:0
+
+"SOACadTextFitted"=int:1
+
+"SOACadSolidWithFilling"=int:0
+
+"SOACadLayoutName"=string:""
+
+"SOACadAutitCheck"=int:1
+
+"SOACadLayerPrefix"=int:1
+
+"SOACadPensAreColors"=int:0
+
+"SOACadLayoutUnitFactor"=float:1.000000
+
+"SOMStationSeedFile"=string:""
+
+"SOMStationClippingFlag"=int:0
+
+"SOMStationPSCorrectionFlag"=int:0
+
+"SOMStationHatchingCorrectionFlag"=int:0
+
+"SOMStationRangeBoxFlag"=int:0
+
+"SOMStationSourceOffsetFlag"=int:0
+
+"SOMStationResolution1"=int:1000
+
+"SOMStationResolution2"=int:10000
+
+"SOMStationFontRscFile"=string:""
+
+"SOMStationSHXFontsPath"=string:""
+
+"SOMStationSubUnit"=float:1.000000
+
+"SOMStationStorageUnit"=float:1000.000000
+
+"SOAllplanLayerAsTarget"=int:1
+
+"SOAllplanTBAsTarget"=int:0
+
+"SOAllplanDistributeRefFiles"=int:0
+
+"SOAllplanDistributeRefFilesDownWards"=int:0
+
+"SOAllplanRefFilesInDrawing"=int:0
+
+"SOAllplanTbToXref"=int:0
+
+"SOAllplanLayerlevel1"=string:"Extern 1"
+
+"SOAllplanLayerlevel2"=string:"Extern 2"
+
+"SOAllplanLayerlevel2FromFileName"=int:1
+
+"SOAllplanUseLayerLongname"=int:1
+
+"SOAllplanUseLayerShortname"=int:0
+
+"SOAllplanUsePrefix"=int:0
+
+"SOAllplanUseNumber"=int:1
+
+"SOAllplanUseName"=int:1
+
+"SOAllplanLineTypeCreation"=int:0
+
+"SOAllplanHatchingCreation"=int:0
+
+"SOAllplanPatternCreation"=int:0
+
+"SOAllplanLayersCreation"=int:1
+
+"SOAllplanPatternLinesCreation"=int:0
+
+"SOAllplanTBNameCreation"=int:0
+
+"SOAllplanUseOfMacrokatalog"=int:0
+
+"SOAllplanWriteToMacrokatalog"=int:0
+
+"SOAllplanArchTo3D"=int:0
+
+"SOAllplanArchElems"=int:1022
+
+"SOAllplanDistributeAttributes"=int:0
+
+"SOAllplanTransferEndSymbols"=int:0
+

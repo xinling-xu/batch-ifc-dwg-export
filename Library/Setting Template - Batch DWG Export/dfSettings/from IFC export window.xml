@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NemetschekBIMStructureSelection Activated="1">
+  <Files>
+  </Files>
+<SelectedNodes>
+    <Teilbild Name="Surroundings                                                          " NodeID="1000" />
+    <Teilbild Name="Foundation                                                            " NodeID="1010" />
+    <Teilbild Name="Floor Slab                                                            " NodeID="1011" />
+    <Teilbild Name="Basement                                                              " NodeID="1012" />
+    <Teilbild Name="Ceiling                                                               " NodeID="1013" />
+    <Teilbild Name="Ground Floor                                                          " NodeID="1014" />
+    <Teilbild Name="Roof                                                                  " NodeID="1015" />
+    <Teilbild Name="Floor Slab                                                            " NodeID="1020" />
+    <Teilbild Name="Strip Foundation                                                      " NodeID="1021" />
+    <Teilbild Name="Ground Floor                                                          " NodeID="1030" />
+    <Teilbild Name="Furniture                                                             " NodeID="1031" />
+    <Teilbild Name="Slab                                                                  " NodeID="1032" />
+    <Teilbild Name="1. Upper Floor                                                        " NodeID="1040" />
+    <Teilbild Name="Furniture                                                             " NodeID="1041" />
+    <Teilbild Name="Slab                                                                  " NodeID="1042" />
+    <Teilbild Name="Walls and Roof" NodeID="1050" />
+</SelectedNodes>
+<IndeterminatelySelectedNodes>
+</IndeterminatelySelectedNodes>
+<ExpandedNodes>
+    <Building Name="VILLA WITH GARAGE" NodeID="8d905e48-6686-415d-9e3e-e678b7d03ecf" />
+    <Storey Name="2. Upper floor " NodeID="917c9f67-f459-4b8c-a598-5449c3c355ab" />
+</ExpandedNodes>
+</NemetschekBIMStructureSelection>
