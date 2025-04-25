@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Element>
     <Script>
-        <Name>allplan_gmbhDWGExportByFileList.py</Name>
+        <Name>allplan_gmbh\DWGExportByFileList.py</Name>
         <Title>DWGExportByFileList</Title>
         <Version>1.0</Version>
         <Interactor>True</Interactor>
