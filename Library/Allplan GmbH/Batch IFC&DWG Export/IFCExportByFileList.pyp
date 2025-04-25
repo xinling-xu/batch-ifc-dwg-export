@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Element>
+<Element xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://pythonparts.allplan.com/2026/schemas/PythonPart.xsd">
     <Script>
         <Name>allplan_gmbh\IFCExportByFileList.py</Name>
         <Title>IFCExportByFileList</Title>
@@ -19,20 +20,21 @@
                 <ValueDialog>OpenFileDialog</ValueDialog>
                 <FileFilter>csv-Dateien(*.csv)|*.csv|</FileFilter>
                 <FileExtension>csv</FileExtension>
-                <DefaultDirectories>etc|STD</DefaultDirectories>
+                <DefaultDirectories>etc|std</DefaultDirectories>
             </Parameter>
 
             <Parameter>
                 <Name>StartExportRow</Name>
                 <Text> </Text>
                 <ValueType>Row</ValueType>
-
-                <Parameter>
-                    <Name>StartExportButton</Name>
-                    <Text>Export</Text>
-                    <EventId>1002</EventId>
-                    <ValueType>Button</ValueType>
-                </Parameter>
+                <Parameters>
+                    <Parameter>
+                        <Name>StartExportButton</Name>
+                        <Text>Export</Text>
+                        <EventId>1002</EventId>
+                        <ValueType>Button</ValueType>
+                    </Parameter>
+                </Parameters>
             </Parameter>
         </Parameters>
     </Page>
