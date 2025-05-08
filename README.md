@@ -101,8 +101,7 @@ The CSV file contains all export settings. Each row in this file will export one
 2. Select the CSV file
 3. Click export and wait
 
-<video controls src="./docs/Batch IFC Export.webm" title="Batch IFC Export"></video>
-
+![Batch Export](./docs/BatchIFCExport.webp)
 
 ## Schedule Batch Export with Task Scheduler
 Before you set up the scheduled task, please check if it works under the command line. You can use following command line to start ALLPLAN and a PythonPart script automatically. If everything goes smoothly, ALLPLAN will close itself afterwards. Please check the [online documentation](https://pythonparts.allplan.com/2026/manual/features/miscellaneous/#run-a-pythonpart-from-command-line) for details.
