@@ -101,7 +101,8 @@ The CSV file contains all export settings. Each row in this file will export one
 2. Select the CSV file
 3. Click export and wait
 
-<video src='https://webdrive.allplan.com/s/arEY9bq2G5e2s29'></video>
+<video controls src="./docs/Batch IFC Export.webm" title="Batch IFC Export"></video>
+
 
 ## Schedule Batch Export with Task Scheduler
 Before you set up the scheduled task, please check if it works under the command line. You can use following command line to start ALLPLAN and a PythonPart script automatically. If everything goes smoothly, ALLPLAN will close itself afterwards. Please check the [online documentation](https://pythonparts.allplan.com/2026/manual/features/miscellaneous/#run-a-pythonpart-from-command-line) for details.
@@ -110,11 +111,11 @@ Before you set up the scheduled task, please check if it works under the command
 ```
 Please check the screenshot below to set up the task correctly.
 
-![Task Scheduler - Command](.\docs\TaskScheduler1.png)
+![Task Scheduler - Command](./docs/TaskScheduler1.png)
 
 Make sure you start ALLPLAN in foreground by choosing the correct user and running the task only when the user is logged on. The scheduled export won't work, if ALLPLAN starts in background.
 
-![Task Scheduler - Foreground](.\docs\TaskScheduler2.png)
+![Task Scheduler - Foreground](./docs/TaskScheduler2.png)
 
 # Any Issues?
 If you have identified any issues, please [open an issue](https://github.com/xinling-xu/batch-ifc-dwg-export/issues).
