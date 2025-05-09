@@ -19,7 +19,7 @@ You can install this plugin "Batch IFC&DWG Export" from the plugin manager direc
 
 Alternatively, you can also download the ALLEP package from the [release page](https://github.com/xinling-xu/batch-ifc-dwg-export/releases). And drag and drop the package into ALLPLAN to install it.
 
-You need ALLPLAN 2026 WIP-5 or beyond to install the package.
+You need at least ALLPLAN 2026 to install the package.
 
 ## Installed PythonPart Scripts
 After installation, you can find two following PythonPart scripts:
@@ -42,14 +42,14 @@ Prepare following folder structure for setting files in one folder:
 ```
 IFCExport.CSV
 <dfSettings>
-├── drawing-file-favorite-1.xml
-└── ...
+  ├── drawing-file-favorite-1.xml
+  └── ...
 <ifcSettings>
-├── ifc-export-favorite-1.nth
-└── ...
+  ├── ifc-export-favorite-1.nth
+  └── ...
 <layerSettings>
-├── layer-favorite-1.lfa
-└── ...
+  ├── layer-favorite-1.lfa
+  └── ...
 ```
 
 
@@ -71,17 +71,17 @@ Prepare following folder structure for setting files in one folder:
 ```
 DWGExport.CSV
 <cfgSettings>
-├── configuration-file-1.cfg
-└── ...
+  ├── configuration-file-1.cfg
+  └── ...
 <dfSettings>
-├── drawing-file-favorite-1.xml
-└── ...
+  ├── drawing-file-favorite-1.xml
+  └── ...
 <dwgSettings>
-├── dwg-export-favorite-1.nth
-└── ...
+  ├── dwg-export-favorite-1.nth
+  └── ...
 <layerSettings>
-├── layer-favorite-1.lfa
-└── ...
+  ├── layer-favorite-1.lfa
+  └── ...
 ```
 The CSV file contains all export settings. Each row in this file will export one DWG or DXF file. The filename of the CSV file must contain the string **DWGExport**. Explaination of the file structure of the CSV file see below:
 
@@ -104,7 +104,7 @@ The CSV file contains all export settings. Each row in this file will export one
 ![Batch Export](./docs/BatchIFCExport.webp)
 
 ## Schedule Batch Export with Task Scheduler
-Before you set up the scheduled task, please check if it works under the command line. You can use following command line to start ALLPLAN and a PythonPart script automatically. If everything goes smoothly, ALLPLAN will close itself afterwards. Please check the [online documentation](https://pythonparts.allplan.com/2026/manual/features/miscellaneous/#run-a-pythonpart-from-command-line) for details.
+Before you set up the scheduled task, please check if it works under the command line. You can use following command line to start ALLPLAN and a PythonPart script automatically. If everything goes smoothly, ALLPLAN will close itself afterwards. Please check the [online documentation](https://pythonparts.allplan.com/latest/manual/features/run_from_command_line/) for details.
 ```
 "C:\Program Files\Allplan\Allplan 2026\Prg\Allplan_2026.exe" -o "@C:\IFCExportByFileList.pyp" "C:\Settings\IFCExport.csv"
 ```
